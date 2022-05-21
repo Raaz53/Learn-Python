@@ -1,0 +1,18 @@
+# a = input("enter first fruit\n")
+# b = input("enter second fruit\n")
+# c = input("enter third fruit\n")
+# d = input("enter fourth fruit\n")
+# e = input("enter fifth fruit\n")
+# f = input("enter sixth fruit\n")
+# g = input("enter seventh fruit\n")
+# fruit = [a, b, c, d, e, f, g]
+# print(fruit)
+f1 = input("entet fruit 1: ")
+f2 = input("entet fruit 2: ")
+f3 = input("entet fruit 3: ")
+f4 = input("entet fruit 4: ")
+f5 = input("entet fruit 5: ")
+f6 = input("entet fruit 6: ")
+f7 = input("entet fruit 7: ")
+fruits = [f1, f2, f3, f4, f5, f6, f7]
+print(fruits)
